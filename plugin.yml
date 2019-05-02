@@ -1,0 +1,37 @@
+name: JoinMessage
+version: 1.6
+main: joinmessage.JoinMessage
+author: byDekei
+commands:
+  jm:
+    description: Join Message Help
+    usage: /jm
+    permission: jm.help
+  joinmessage:
+    description: Join Message Help
+    usage: /jm
+    permission: jm.help
+  jm reload:
+    description: Join Message Reload
+    usage: /jm reload
+    permission: jm.reload
+  joinmessage reload:
+    description: Join Message Reload
+    usage: /joinmessage reload
+    permission: jm.reload
+  joinmessage lines:
+    description: Join Message change lines
+    usage: /joinmessage lines
+    permission: jm.lines
+  jm lines:
+    description: Join Message change lines
+    usage: /joinmessage lines
+    permission: jm.lines
+  joinmessage message:
+    description: Join Message change messages
+    usage: /joinmessage message
+    permission: jm.message
+  jm message:
+    description: Join Message change messages
+    usage: /joinmessage message
+    permission: jm.message
